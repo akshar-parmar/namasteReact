@@ -1,17 +1,15 @@
 {
-  "name": "chapter02-igniting-app",
+  "name": "chapter03-layingthefoundation",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "npx parcel ./coding/index.html",
-    "build": "npx parcel ./coding/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel ./coding/assignment.html"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.22.10",
     "parcel": "^2.9.3",
     "process": "^0.11.10"
   },
